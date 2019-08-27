@@ -1,1 +1,1 @@
-# PythinForEverybody
+# PythonForEverybody
